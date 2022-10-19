@@ -1,0 +1,15 @@
+D:\realdll\bin\Debug\net6.0\realdll.exe
+D:\realdll\bin\Debug\net6.0\realdll.deps.json
+D:\realdll\bin\Debug\net6.0\realdll.runtimeconfig.json
+D:\realdll\bin\Debug\net6.0\realdll.dll
+D:\realdll\bin\Debug\net6.0\realdll.pdb
+D:\realdll\obj\Debug\net6.0\realdll.csproj.AssemblyReference.cache
+D:\realdll\obj\Debug\net6.0\realdll.GeneratedMSBuildEditorConfig.editorconfig
+D:\realdll\obj\Debug\net6.0\realdll.AssemblyInfoInputs.cache
+D:\realdll\obj\Debug\net6.0\realdll.AssemblyInfo.cs
+D:\realdll\obj\Debug\net6.0\realdll.csproj.CoreCompileInputs.cache
+D:\realdll\obj\Debug\net6.0\realdll.dll
+D:\realdll\obj\Debug\net6.0\refint\realdll.dll
+D:\realdll\obj\Debug\net6.0\realdll.pdb
+D:\realdll\obj\Debug\net6.0\realdll.genruntimeconfig.cache
+D:\realdll\obj\Debug\net6.0\ref\realdll.dll
